@@ -1,0 +1,22 @@
+/* CSS stylesheet for main.html */
+
+/* main.css */
+
+/* Samuel Villalva Lijo */
+
+/* 11/25/21 */
+
+h1 {
+    color: red;
+    margin: auto;
+    text-align: center;
+}
+
+.cookie-button {
+    background-color: green;
+    border: 15px;
+    border-color: purple;
+    color: purple;
+    font-size: 32;
+
+}
