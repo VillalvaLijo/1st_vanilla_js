@@ -8,4 +8,4 @@
 
 //11/26/21
 
-
+document.getElementById("cookie-button").addEventListener('click', console.log("Cookie-Button Clicked"))
